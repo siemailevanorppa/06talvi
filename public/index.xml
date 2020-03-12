@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talviainen</title>
+    <link>https://talviainen.fi/</link>
+    <description>Recent content on Talviainen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi</language>
+    
+	<atom:link href="https://talviainen.fi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
